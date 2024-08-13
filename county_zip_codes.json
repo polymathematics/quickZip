@@ -1,0 +1,13 @@
+{
+    "options": [
+        {
+            "label": "Suffolk County",
+            "value": "Suffolk County",
+            "zipcodes": [],
+            "membershipGroup": {
+                "id": "SUFF",
+                "description": "Suffolk County"
+            }
+        }
+    ]
+}
